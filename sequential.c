@@ -49,4 +49,5 @@ void sequentialAllocation() {
 int main() {
     sequentialAllocation();
     return 0;
+    
 }
